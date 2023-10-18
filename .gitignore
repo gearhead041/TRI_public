@@ -1,0 +1,6 @@
+*.db
+*.log
+testing.py
+Lib/
+Scripts/
+Include/
